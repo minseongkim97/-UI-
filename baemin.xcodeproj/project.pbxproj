@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		245EEECC2682786B00A5F276 /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245EEECB2682786B00A5F276 /* CustomTabBarController.swift */; };
 		24B9EA082680FD7C00BAA7FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B9EA072680FD7C00BAA7FE /* AppDelegate.swift */; };
 		24B9EA0A2680FD7C00BAA7FE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B9EA092680FD7C00BAA7FE /* SceneDelegate.swift */; };
 		24B9EA0C2680FD7C00BAA7FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B9EA0B2680FD7C00BAA7FE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		245EEECB2682786B00A5F276 /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
 		24B9EA042680FD7C00BAA7FE /* baemin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = baemin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24B9EA072680FD7C00BAA7FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24B9EA092680FD7C00BAA7FE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				24B9EA072680FD7C00BAA7FE /* AppDelegate.swift */,
 				24B9EA092680FD7C00BAA7FE /* SceneDelegate.swift */,
 				24B9EA0B2680FD7C00BAA7FE /* ViewController.swift */,
+				245EEECB2682786B00A5F276 /* CustomTabBarController.swift */,
 				24B9EA0D2680FD7C00BAA7FE /* Main.storyboard */,
 				24B9EA102680FD7D00BAA7FE /* Assets.xcassets */,
 				24B9EA122680FD7D00BAA7FE /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				24B9EA0C2680FD7C00BAA7FE /* ViewController.swift in Sources */,
 				24B9EA082680FD7C00BAA7FE /* AppDelegate.swift in Sources */,
+				245EEECC2682786B00A5F276 /* CustomTabBarController.swift in Sources */,
 				24B9EA0A2680FD7C00BAA7FE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
