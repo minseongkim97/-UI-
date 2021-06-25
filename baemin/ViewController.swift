@@ -17,6 +17,15 @@ class ViewController: UIViewController {
         }
     }
     
+    @IBOutlet weak var myTownView: UIView! {
+        didSet {
+            myTownView.layer.cornerRadius = 20
+            myTownView.layer.borderWidth = 0.1
+            myTownView.layer.borderColor = UIColor.gray.cgColor
+            myTownView.layer.masksToBounds = true
+        }
+    }
+    
     @IBOutlet private weak var adScrollView: UIScrollView!
     
     @IBOutlet private weak var saleScrollView: UIScrollView!

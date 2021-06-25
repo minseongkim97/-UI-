@@ -17,8 +17,8 @@ class CustomTabBarController: UITabBarController {
         
         // 그림자 넣기
         tabBar.layer.shadowOffset = CGSize(width: 1, height: 2)
-        tabBar.layer.shadowRadius = 2
+        tabBar.layer.shadowRadius = 4
         tabBar.layer.shadowColor = UIColor.black.cgColor
-        tabBar.layer.shadowOpacity = 0.07
+        tabBar.layer.shadowOpacity = 0.3
     }
 }
