@@ -65,10 +65,10 @@
                                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="종류1" translatesAutoresizingMaskIntoConstraints="NO" id="hLU-Tm-VFe">
                                                                         <rect key="frame" x="0.0" y="0.0" width="79" height="70"/>
                                                                     </imageView>
-                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="종류2" translatesAutoresizingMaskIntoConstraints="NO" id="dPM-5c-r2g">
+                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="스크린샷 2021-06-26 오전 4.26.26" translatesAutoresizingMaskIntoConstraints="NO" id="dPM-5c-r2g">
                                                                         <rect key="frame" x="79" y="0.0" width="78.5" height="70"/>
                                                                     </imageView>
-                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="종류3" translatesAutoresizingMaskIntoConstraints="NO" id="ju4-Fd-qWw">
+                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="스크린샷 2021-06-26 오전 4.24.52" translatesAutoresizingMaskIntoConstraints="NO" id="ju4-Fd-qWw">
                                                                         <rect key="frame" x="157.5" y="0.0" width="79" height="70"/>
                                                                     </imageView>
                                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="종류4" translatesAutoresizingMaskIntoConstraints="NO" id="hV3-wA-ldB">
@@ -612,6 +612,8 @@
         <image name="chevron.down" catalog="system" width="128" height="72"/>
         <image name="chevron.right" catalog="system" width="96" height="128"/>
         <image name="clock" catalog="system" width="128" height="121"/>
+        <image name="스크린샷 2021-06-26 오전 4.24.52" width="61" height="65"/>
+        <image name="스크린샷 2021-06-26 오전 4.26.26" width="75" height="58"/>
         <image name="오늘의 할인" width="210" height="234"/>
         <image name="종류 background" width="370" height="382"/>
         <image name="종류1" width="103" height="103"/>
@@ -625,8 +627,6 @@
         <image name="종류17" width="115" height="111"/>
         <image name="종류18" width="113" height="114"/>
         <image name="종류19" width="92" height="83"/>
-        <image name="종류2" width="133" height="104"/>
-        <image name="종류3" width="84" height="98"/>
         <image name="종류4" width="97" height="104"/>
         <image name="종류5" width="94" height="107"/>
         <image name="종류6" width="108" height="104"/>
