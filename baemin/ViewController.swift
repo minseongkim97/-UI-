@@ -43,8 +43,8 @@ class ViewController: UIViewController {
             let imageView = UIImageView()
             let xPos = self.view.frame.width * CGFloat(i)
             imageView.image = adImages[i]
-            imageView.contentMode = .scaleToFill
-            imageView.frame = CGRect(x: xPos, y: 0, width: adScrollView.bounds.width, height: adScrollView.bounds.height)
+            imageView.frame = CGRect(x: xPos, y: 0, width: self.view.frame.width, height: adScrollView.bounds.height)
+            
            
             adScrollView.addSubview(imageView)
         }
